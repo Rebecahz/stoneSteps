@@ -82,14 +82,14 @@
         </div>
         <div class="row col s8 offset-s2 m12">
           <div class="file-field input-field">
-            <div class="btn">
-              <span>Browse</span>
-              <input type="file">
-            </div>
-            <div class="file-path-wrapper">
-              <input class="file-path validate" type="text">
-            </div>
-          </div>
+						<div class="btn waves-effect dark-primary waves-light">
+							<span><i class="material-icons ">perm_media add</i></span>
+							<input type="file">
+						</div>
+						<div class="file-path-wrapper">
+							<input class="file-path validate" type="text" placeholder="Upload Goal Photo">
+						</div>
+					</div>
         </div> 
       </div>  
       <!-- Termina Primera Columna -->
