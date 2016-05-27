@@ -2,7 +2,7 @@
 
 
 
-<div class="containerfull z-depth-1">
+<!--<div class="container">
 	<div class="row">
 	    <div class="col s12 pinned">
 	      <ul class="tabs">
@@ -15,13 +15,12 @@
 	        <li class="tab col s2"><a href="#test7">Personal</a></li>
 	      </ul>
 	    </div>
-	</div>
-</div>
+	</div>-->
 
-<!--<div class="container">
+<div class="container">
 	<div class="row">
 		<div class="col s12">
-			<div class="container pinned">
+			<div class="container-90 pinned">
 				<div class="row">
 				    <div class="col s12">
 				      <ul class="tabs">
@@ -37,8 +36,7 @@
 				</div>
 			</div>
 		</div>
-	</div>-->
-<div class="container">
+	</div>
 	<div class="row">
 	</div>	
 

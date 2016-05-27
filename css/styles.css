@@ -30,6 +30,12 @@ nav .input-field input {
   width: 100%;
 }
 
+.container-90 {
+  margin: 0 auto;
+  max-width: 1280px;
+  width: 95%;
+}
+
 @media only screen and (min-width: 601px) {
   .containerfull {
     width: 100%;

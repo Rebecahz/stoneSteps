@@ -91,7 +91,7 @@
 					<img class=" materialboxed responsive-img " width="470" src="http://placehold.it/470/0/eeeee">
 				</div>
 				<div class="row">
-					<label class ="dark-primary-text">"lA bida ez mas beia zi la rebe-k T picha kwas"</label>
+					<label class ="dark-primary-text">"Descripción de imagen."</label>
 				</div>
 				<div class="row">
 				<a href="#modal1" id="create-button" class="btn-main dark-primary waves-effect waves-light modal-trigger data-target=modal1 offset-s3 offset-m3 offset-l3 col s6 m6 l6 ">Edit Photo</a>
@@ -104,7 +104,7 @@
 					<img class=" materialboxed responsive-img " width="470" src="http://placehold.it/470/0/eeeee">
 				</div>
 				<div class="row">
-					<label class ="dark-primary-text">"lA bida ez mas beia zi la rebe-k T picha kwas"</label>
+					<label class ="dark-primary-text">"Descripción de imagen."</label>
 				</div>
 				<div class="row">
 				<a href="#modal1" id="create-button" class="btn-main dark-primary waves-effect waves-light modal-trigger data-target=modal1 offset-s3 offset-m3 offset-l3 col s6 m6 l6 ">Edit Photo</a>
@@ -117,7 +117,7 @@
 					<img class=" materialboxed responsive-img " width="470" src="http://placehold.it/470/0/eeeee">
 				</div>
 				<div class="row">
-					<label class ="dark-primary-text">"lA bida ez mas beia zi la rebe-k T picha kwas"</label>
+					<label class ="dark-primary-text">"Descripción de imagen."</label>
 				</div>
 				<div class="row">
 				<a href="#modal1" id="create-button" class="btn-main dark-primary waves-effect waves-light modal-trigger data-target=modal1 offset-s3 offset-m3 offset-l3 col s6 m6 l6 ">Edit Photo</a>
@@ -130,7 +130,7 @@
 					<img class=" materialboxed responsive-img " width="470" src="http://placehold.it/470/0/eeeee">
 				</div>
 				<div class="row">
-					<label class ="dark-primary-text">"lA bida ez mas beia zi la rebe-k T picha kwas"</label>
+					<label class ="dark-primary-text">"Descripción de imagen."</label>
 				</div>
 				<div class="row">
 				<a href="#modal1" id="create-button" class="btn-main dark-primary waves-effect waves-light modal-trigger data-target=modal1 offset-s3 offset-m3 offset-l3 col s6 m6 l6 ">Edit Photo</a>
@@ -143,7 +143,7 @@
 					<img class=" materialboxed responsive-img " width="470" src="http://placehold.it/470/0/eeeee">
 				</div>
 				<div class="row">
-					<label class ="dark-primary-text">"lA bida ez mas beia zi la rebe-k T picha kwas"</label>
+					<label class ="dark-primary-text">"Descripción de imagen."</label>
 				</div>
 				<div class="row">
 				<a href="#modal1" id="create-button" class="btn-main dark-primary waves-effect waves-light modal-trigger data-target=modal1 offset-s3 offset-m3 offset-l3 col s6 m6 l6 ">Edit Photo</a>
@@ -156,7 +156,7 @@
 					<img class=" materialboxed responsive-img " width="470" src="http://placehold.it/470/0/eeeee">
 				</div>
 				<div class="row">
-					<label class ="dark-primary-text">"lA bida ez mas beia zi la rebe-k T picha kwas"</label>
+					<label class ="dark-primary-text">"Descripción de imagen."</label>
 				</div>
 				<div class="row">
 				<a href="#modal1" id="create-button" class="btn-main dark-primary waves-effect waves-light modal-trigger data-target=modal1 offset-s3 offset-m3 offset-l3 col s6 m6 l6 ">Edit Photo</a>
@@ -169,7 +169,7 @@
 					<img class=" materialboxed responsive-img " width="470" src="http://placehold.it/470/0/eeeee">
 				</div>
 				<div class="row">
-					<label class ="dark-primary-text">"lA bida ez mas beia zi la rebe-k T picha kwas"</label>
+					<label class ="dark-primary-text">"Descripción de imagen."</label>
 				</div>
 				<div class="row">
 				<a href="#modal1" id="create-button" class="btn-main dark-primary waves-effect waves-light modal-trigger data-target=modal1 offset-s3 offset-m3 offset-l3 col s6 m6 l6 ">Edit Photo</a>
@@ -182,7 +182,7 @@
 					<img class=" materialboxed responsive-img " width="470" src="http://placehold.it/470/0/eeeee">
 				</div>
 				<div class="row">
-					<label class ="dark-primary-text">"lA bida ez mas beia zi la rebe-k T picha kwas"</label>
+					<label class ="dark-primary-text">"Descripción de imagen."</label>
 				</div>
 				<div class="row">
 				<a href="#modal1" id="create-button" class="btn-main dark-primary waves-effect waves-light modal-trigger data-target=modal1 offset-s3 offset-m3 offset-l3 col s6 m6 l6 ">Edit Photo</a>
@@ -195,7 +195,7 @@
 					<img class=" materialboxed responsive-img " width="470" src="http://placehold.it/470/0/eeeee">
 				</div>
 				<div class="row">
-					<label class ="dark-primary-text">"lA bida ez mas beia zi la rebe-k T picha kwas"</label>
+					<label class ="dark-primary-text">"Descripción de imagen."</label>
 				</div>
 				<div class="row">
 				<a href="#modal1" id="create-button" class="btn-main dark-primary waves-effect waves-light modal-trigger data-target=modal1 offset-s3 offset-m3 offset-l3 col s6 m6 l6 ">Edit Photo</a>
@@ -208,7 +208,7 @@
 					<img class=" materialboxed responsive-img " width="470" src="http://placehold.it/470/0/eeeee">
 				</div>
 				<div class="row">
-					<label class ="dark-primary-text">"lA bida ez mas beia zi la rebe-k T picha kwas"</label>
+					<label class ="dark-primary-text">"Descripción de imagen."</label>
 				</div>
 				<div class="row">
 				<a href="#modal1" id="create-button" class="btn-main dark-primary waves-effect waves-light modal-trigger data-target=modal1 offset-s3 offset-m3 offset-l3 col s6 m6 l6 ">Edit Photo</a>
@@ -221,7 +221,7 @@
 					<img class=" materialboxed responsive-img " width="470" src="http://placehold.it/470/0/eeeee">
 				</div>
 				<div class="row">
-					<label class ="dark-primary-text">"lA bida ez mas beia zi la rebe-k T picha kwas"</label>
+					<label class ="dark-primary-text">"Descripción de imagen."</label>
 				</div>
 				<div class="row">
 				<a href="#modal1" id="create-button" class="btn-main dark-primary waves-effect waves-light modal-trigger data-target=modal1 offset-s3 offset-m3 offset-l3 col s6 m6 l6 ">Edit Photo</a>

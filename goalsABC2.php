@@ -74,11 +74,10 @@
 				 <div class="row">
 				 <div class="col s10 offset-s1">
 					<div class="collection  ">
+						<a href="#modal1" class="collection-item waves-effect waves-light modal-trigger data-target=modal1 secondary-text center">Add a New Milestone<span class="badge"></span></a>
 						<a href="#modal1" class="collection-item waves-effect waves-light modal-trigger data-target=modal1">Pagar el gym<span class="badge"><div class="row accent-text ">Completed, 10/23/2016</div></span></a>
 						<a href="#modal1" class="collection-item waves-effect waves-light modal-trigger data-target=modal1">No dejar de ir por 3 meses<span class="badge"><div class="row dark-primary-text">Going</div></span></a>
-						<a href="#modal1" class="collection-item waves-effect waves-light modal-trigger data-target=modal1">Bajar 10 libras<span class="badge">Idle</span></a>
-						<a href="#modal1" class="collection-item waves-effect waves-light modal-trigger data-target=modal1 secondary-text center">Add a New Milestone<span class="badge"></span></a>
-						
+						<a href="#modal1" class="collection-item waves-effect waves-light modal-trigger data-target=modal1">Bajar 10 libras<span class="badge">Idle</span></a>						
 						
 					</div>
 				</div>
