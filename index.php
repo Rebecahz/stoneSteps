@@ -2,41 +2,23 @@
 
 
 
-<!--<div class="container">
-	<div class="row">
-	    <div class="col s12 pinned">
-	      <ul class="tabs">
-	        <li class="tab col s2"><a class="active" href="#test1">Following</a></li>
-	        <li class="tab col s2"><a href="#test2">Sports</a></li>
-	        <li class="tab col s2"><a href="#test3">Knowledge</a></li>
-	        <li class="tab col s2"><a href="#test4">Arts</a></li>
-	        <li class="tab col s2"><a href="#test5">Professional</a></li>
-	        <li class="tab col s2"><a href="#test6">Social</a></li>
-	        <li class="tab col s2"><a href="#test7">Personal</a></li>
-	      </ul>
-	    </div>
-	</div>-->
-
 <div class="container">
-	<div class="row">
-		<div class="col s12">
-			<div class="container-90 pinned">
-				<div class="row">
-				    <div class="col s12">
-				      <ul class="tabs">
-				        <li class="tab col s2"><a class="active" href="#test1">Following</a></li>
-				        <li class="tab col s2"><a href="#test2">Sports</a></li>
-				        <li class="tab col s2"><a href="#test3">Knowledge</a></li>
-				        <li class="tab col s2"><a href="#test4">Arts</a></li>
-				        <li class="tab col s2"><a href="#test5">Professional</a></li>
-				        <li class="tab col s2"><a href="#test6">Social</a></li>
-				        <li class="tab col s2"><a href="#test7">Personal</a></li>
-				      </ul>
-				    </div>
-				</div>
+	<div class="container pinned">
+		<div class="row">
+			<div class="col s12">
+		        <ul class="tabs">
+			        <li class="tab col s1"><a class="active" href="#test1">Following</a></li>
+			        <li class="tab col s1"><a href="#test2">Sports</a></li>
+			        <li class="tab col s1"><a href="#test3">Knowledge</a></li>
+			        <li class="tab col s1"><a href="#test4">Arts</a></li>
+			        <li class="tab col s1"><a href="#test5">Professional</a></li>
+			        <li class="tab col s1"><a href="#test6">Social</a></li>
+			        <li class="tab col s1"><a href="#test7">Personal</a></li>
+		        </ul>
 			</div>
 		</div>
 	</div>
+	
 	<div class="row">
 	</div>	
 
